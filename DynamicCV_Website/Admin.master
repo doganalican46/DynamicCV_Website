@@ -31,10 +31,10 @@
 
             <ul class="list-unstyled components">
                 <li class="active">
-                    <a href="#"><i class="fas fa-home"></i> About</a>
+                    <a href="About.aspx"><i class="fas fa-home"></i> About</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fas fa-briefcase"></i> Experience</a>
+                    <a href="AdminExperience.aspx"><i class="fas fa-briefcase"></i> Experience</a>
                 </li>
                 <li>
                     <a href="#"><i class="fas fa-book"></i> Education</a>
