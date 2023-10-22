@@ -37,7 +37,7 @@
                     <a href="AdminExperience.aspx"><i class="fas fa-briefcase"></i> Experience</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fas fa-book"></i> Education</a>
+                    <a href="AdminEducations.aspx"><i class="fas fa-book"></i> Education</a>
                 </li>
                 <li>
                     <a href="#"><i class="fas fa-cogs"></i> Skills</a>
