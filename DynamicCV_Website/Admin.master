@@ -40,13 +40,13 @@
                     <a href="AdminEducations.aspx"><i class="fas fa-book"></i> Education</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fas fa-cogs"></i> Skills</a>
+                    <a href="AdminSkills.aspx"><i class="fas fa-cogs"></i> Skills</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fas fa-heart"></i> Interests</a>
+                    <a href="AdminHobbies.aspx"><i class="fas fa-heart"></i> Interests</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fas fa-gift"></i> Awards</a>
+                    <a href="AdminAwards.aspx"><i class="fas fa-gift"></i> Awards</a>
                 </li>
             </ul>
 
